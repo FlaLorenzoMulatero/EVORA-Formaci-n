@@ -1,2 +1,2 @@
-# EVORA-Formaci-n
+# EVORA-Formacion
 Definición de escenarios en BDD
